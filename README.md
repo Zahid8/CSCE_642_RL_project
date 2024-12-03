@@ -117,6 +117,6 @@ pip install -r requirements.txt
 
 ## Execution
 
-```cd``` into either ddpg or ppo folder and run the train script : ```python3 train_ppo.py, train_ddpg.py, train_sac.py, train_a2c.py, train_a3c.py```
+```cd``` into either ddpg or ppo folder and run the train script : ```python3 train_ppo.py```, ```python3 train_ddpg.py```, ```python3 train_sac.py```, ```python3 train_a2c.py```, ```python3 train_a3c.py```.
 
 
